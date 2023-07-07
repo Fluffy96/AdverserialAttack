@@ -1,1 +1,2 @@
-The notebook in here describes how one can conduct an adverserial attack against CNN based algorithms 
+The notebook here describes how one can conduct an adversarial attack against CNN-based algorithms 
+There are 2 techniques that are highlighted FSGM and PGD
